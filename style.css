@@ -59,4 +59,12 @@
 
 .nav-search {
     display: flex;
+    background-color: red;
+    width:  620px;
+    height: 40px;
+    border-radius: 5px;
+}
+
+.search-select {
+    background-color: f3f3f3;
 }
